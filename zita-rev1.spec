@@ -1,7 +1,7 @@
 Name:            zita-rev1
 Version:         0.2.1
 
-Release:        %mkrel 1
+Release:         2
 
 
 Summary:        Hall-type stereo reverb with GUI
