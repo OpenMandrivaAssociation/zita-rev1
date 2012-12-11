@@ -70,3 +70,18 @@ rm -rf %{buildroot}
 %{_datadir}/%{name}/*
 %{_datadir}/applications/mandriva-%{name}.desktop
 
+
+
+%changelog
+* Sat Dec 24 2011 Frank Kober <emuse@mandriva.org> 0.2.1-2
++ Revision: 745011
+- rebuild to link against newer libpng
+
+* Wed Jun 15 2011 Frank Kober <emuse@mandriva.org> 0.2.1-1
++ Revision: 685448
+- new version 0.2.1
+
+* Wed Apr 20 2011 Frank Kober <emuse@mandriva.org> 0.1.1-1
++ Revision: 656079
+- import zita-rev1
+
