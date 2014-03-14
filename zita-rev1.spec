@@ -10,7 +10,7 @@ URL:            http://kokkinizita.linuxaudio.org
 License:        GPLv2
 Group:          Sound
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
-BuildRequires:  gtk2-devel
+BuildRequires:  gtk+2.0-devel
 BuildRequires:  cairo-devel
 BuildRequires:  clxclient-devel
 BuildRequires:  jackit-devel
