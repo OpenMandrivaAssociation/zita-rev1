@@ -2,7 +2,7 @@
 
 Name:            zita-rev1
 Version:         0.2.1
-Release:         2
+Release:         3
 Summary:        Hall-type stereo reverb with GUI
 Source:         http://kokkinizita.linuxaudio.org/linuxaudio/downloads/%{name}-%{version}.tar.bz2
 URL:            http://kokkinizita.linuxaudio.org
