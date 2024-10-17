@@ -5,7 +5,7 @@ Version:         0.2.1
 Release:         3
 Summary:        Hall-type stereo reverb with GUI
 Source:         http://kokkinizita.linuxaudio.org/linuxaudio/downloads/%{name}-%{version}.tar.bz2
-URL:            http://kokkinizita.linuxaudio.org
+URL:            https://kokkinizita.linuxaudio.org
 License:        GPLv2
 Group:          Sound
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
